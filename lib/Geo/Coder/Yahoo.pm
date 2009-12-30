@@ -1,4 +1,5 @@
 package Geo::Coder::Yahoo;
+use 5.006;
 use warnings;
 use strict;
 use Carp qw(croak);
